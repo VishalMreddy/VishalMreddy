@@ -1,4 +1,4 @@
-- 👋 Hi, I’m Vishal
+- 👋 Hi, I’m Vishal Reddy
 - 🌱 I’m currently learning Full stack development 
 - 📫 How to reach me vishalreddym37@gmail.com
 - 💬 Ask me about : Python, Data Structures, Machine Learning and Algorithms.
